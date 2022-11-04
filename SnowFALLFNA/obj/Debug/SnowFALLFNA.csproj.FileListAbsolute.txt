@@ -1,0 +1,16 @@
+F:\repos\SnowFALLFNA\obj\Debug\SnowFALLFNA.csproj.AssemblyReference.cache
+F:\repos\SnowFALLFNA\obj\Debug\SnowFALLFNA.csproj.SuggestedBindingRedirects.cache
+F:\repos\SnowFALLFNA\obj\Debug\SnowFALLFNA.csproj.CoreCompileInputs.cache
+F:\repos\SnowFALLFNA\bin\Debug\FAudio.dll
+F:\repos\SnowFALLFNA\bin\Debug\FNA3D.dll
+F:\repos\SnowFALLFNA\bin\Debug\libtheorafile.dll
+F:\repos\SnowFALLFNA\bin\Debug\SDL2.dll
+F:\repos\SnowFALLFNA\bin\Debug\SnowFALLFNA.exe.config
+F:\repos\SnowFALLFNA\bin\Debug\SnowFALLFNA.exe
+F:\repos\SnowFALLFNA\bin\Debug\SnowFALLFNA.pdb
+F:\repos\SnowFALLFNA\bin\Debug\FNA.dll
+F:\repos\SnowFALLFNA\obj\Debug\SnowFALLFNA.csproj.CopyComplete
+F:\repos\SnowFALLFNA\obj\Debug\SnowFALLFNA.exe
+F:\repos\SnowFALLFNA\obj\Debug\SnowFALLFNA.pdb
+F:\repos\SnowFALLFNA\bin\Debug\Content\Font.jpg
+F:\repos\SnowFALLFNA\bin\Debug\Content\Snow1.png
